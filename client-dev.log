@@ -1,0 +1,45 @@
+
+> pulsepath-client@0.0.1 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m1240[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.137.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.29.180:[1m5173[22m/[39m
+[2m11:40:19 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/TriageView.jsx[22m
+[2m11:40:46 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m11:41:03 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:04:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/TriageView.jsx[22m
+[2m12:04:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:10:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/TriageView.jsx[22m
+[2m12:10:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:44:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/views/TriageView.jsx[22m
+[2m12:53:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m12:53:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m12:55:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m12:55:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/ProfileView.jsx[22m
+[2m12:56:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/TriageView.jsx[22m
+[2m12:57:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:58:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:58:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:58:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m12:59:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/views/TriageView.jsx, /src/components/views/ProfileView.jsx[22m
+[2m12:59:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:01:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:39:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:39:25 pm[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mjspdf[32m[39m
+[2m1:39:25 pm[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m1:39:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BottomNav.jsx[22m
+[2m1:39:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/ProfileView.jsx[22m
+[2m1:39:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/views/TriageView.jsx[22m
+[2m1:39:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m1:40:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:42:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:11:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m4:03:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BottomNav.jsx[22m
+[2m4:03:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m4:03:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m4:03:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m4:03:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m

@@ -1,0 +1,306 @@
+
+> pulsepath-server@0.0.1 dev
+> nodemon src/index.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 404: {"error":{"message":"No endpoints found that support image input","code":404}}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"google/gemma-3n-e4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Google AI Studio","is_byok":false}},"user_id":"user_2tm1TULIC3K5aSisNUkaFHxYU7n"}
+OpenRouter analysis failed, falling back to heuristics. OpenRouter error 400: {"error":{"message":"Provider returned error","code":400,"metadata":{"raw":"{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for models/gemma-3n-e4b-it\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n","provider_name":"Google AI Studio","is_byok":false}},"user_id":"user_2tm1TULIC3K5aSisNUkaFHxYU7n"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:51:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:51:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:51:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:51:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:58:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+OpenRouter analysis failed, falling back to heuristics. openrouter/auto: OpenRouter request timed out.
+OpenRouter analysis failed, falling back to heuristics. openrouter/auto: OpenRouter request timed out.
+OpenRouter analysis failed, falling back to heuristics. openrouter/auto: OpenRouter request timed out.
+OpenRouter analysis failed, falling back to heuristics. openrouter/auto: OpenRouter request timed out.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:58:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:internal/modules/esm/resolve:274
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\server\src\services\openrouterAnalyzer.js' imported from C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\server\src\services\analyzer.js
+    at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+    at moduleResolve (node:internal/modules/esm/resolve:859:10)
+    at defaultResolve (node:internal/modules/esm/resolve:983:11)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:183:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/services/openrouterAnalyzer.js'
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:58:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (C:\Users\ADMIN\OneDrive - sunenterprise\Desktop\Hackonit\node_modules\express\lib\application.js:635:24)
+    at file:///C:/Users/ADMIN/OneDrive%20-%20sunenterprise/Desktop/Hackonit/server/src/index.js:58:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4000
+}
+
+Node.js v22.19.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+OpenRouter analysis failed, falling back to heuristics. openrouter/auto: OpenRouter request timed out.
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+Gemini analysis failed, trying secondary providers. Gemini error 400: {
+  "error": {
+    "code": 400,
+    "message": "Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node src/index.js`[39m
+PulsePath API listening on http://localhost:4000
+^C^C
